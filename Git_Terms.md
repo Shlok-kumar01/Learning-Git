@@ -32,3 +32,19 @@
 
 ## Push
 - Upload commits to the remote repo.
+
+## Pull 
+- Download and update changes from a remote repo in to local repo.
+
+## Log
+- Show commit history.
+- Every commit generate a specific hash.
+
+## Head
+- Show current branch or commit.
+- It is pointed by star (*main).
+
+## Fork 
+- Make a copy of someone's repo 
+
+
