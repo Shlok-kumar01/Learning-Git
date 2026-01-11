@@ -47,4 +47,5 @@
 ## Fork 
 - Make a copy of someone's repo 
 
-
+## Init
+- Used to initialize git in a new folder.
