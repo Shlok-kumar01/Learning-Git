@@ -11,6 +11,11 @@ git config --global user.name "name"
 git config --global user.email "email"
 ```
 
+## Clone
+```sh
+git clone link_here
+```
+
 ## Staged
 - To add specific file
 ```sh
@@ -33,5 +38,25 @@ git push origin main
 ## Init
 ```sh
 git init
+```
+
+## Add origin(repo)
+```sh
+git remote add origin link_here
+```
+
+## Verify origin
+```sh
+git remote -v
+```
+
+## Check branch
+```sh
+git branch
+```
+
+## Rename branch
+```sh
+git branch -M name_here
 ```
 
