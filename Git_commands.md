@@ -2,6 +2,7 @@
 
 ## Set Username
 - Here global specify that this username used for all repos.
+- Use local for current repo.
 ```sh
 git config --global user.name "name"
 ```
