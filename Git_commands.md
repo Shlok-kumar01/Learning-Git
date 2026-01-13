@@ -60,4 +60,3 @@ git branch
 ```sh
 git branch -M name_here
 ```
-
