@@ -61,3 +61,33 @@ git branch
 git branch -M name_here
 ```
 
+## Create branch only
+```sh
+git branch name_here
+```
+
+## Create branch and switch
+```sh
+git checkout -b name_here
+```
+```sh
+git switch -c name_here
+```
+
+## Switch existing branch
+```sh
+git checkout branch_name
+```
+```sh
+git switch branch_name
+```
+
+## See unstaged changes
+```sh
+git diff
+```
+
+## See staged changes
+```sh
+git diff --staged
+```

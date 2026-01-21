@@ -1,6 +1,6 @@
 # Git
 - Git is a VCS( Version Control System).
-- Created by **Linus Torvalds** in 2005
+- Created by ***Linus Torvalds*** in 2005
 - Used to track history/ changes in code.
 
 ## Repository(Repo)
