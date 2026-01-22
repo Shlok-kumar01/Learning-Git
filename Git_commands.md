@@ -91,3 +91,13 @@ git diff
 ```sh
 git diff --staged
 ```
+
+ ## Undu stages
+ ```sh
+ git restore --staged file_name
+```
+
+## Undu local changes/restore to last commit
+```sh
+git restore file_name
+```
