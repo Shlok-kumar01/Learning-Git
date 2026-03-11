@@ -101,3 +101,13 @@ git diff --staged
 ```sh
 git restore file_name
 ```
+
+# Change the last commit pushed on github
+```sh
+git commit --amend -m "New commit massage"
+```
+
+# Update the remote history
+```sh
+git push --force
+```
